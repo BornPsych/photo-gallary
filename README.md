@@ -2,8 +2,8 @@
 
 ## TODO
 
-- [ ] Make it deploy (vercel)
-- [ ] scaffold a basic UI with mock data
+- [x] Make it deploy (vercel)
+- [x] scaffold a basic UI with mock data
 - [ ] Actually set-up teh database (vercel postgres)
 - [ ] Attach teh database to UI
 - [ ] Add Authentication ( w/ clerk)
@@ -13,3 +13,8 @@
 - [ ] delete button (w/ Server Actions)
 - [ ] Analytics (w/ posthog)
 - [ ] Ratelimiting (w/ upstash)
+
+
+## TO Learn
+
+- [ ] How to manage Images in web in production frontend app and more about images in web.
