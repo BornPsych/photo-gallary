@@ -10,7 +10,6 @@ const inter = Inter({
 export const metadata = {
   title: "Photo Gallary",
   description: "This is a full stack photo gallary",
-  icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
 function TopNav(){

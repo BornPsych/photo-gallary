@@ -24,3 +24,5 @@
 ## Learned
 
 - Added ignoreBuildErrors in next config, because, it peed up the build process by a lot and these rules are added in the github actions, so, we don't need to care about it.
+- Always make the database close to your deployment region or you will face an unnecessary lags.
+- Database migratoin can show weird behavior becasue they can be out of order in the git history, since they run the code line by line.
